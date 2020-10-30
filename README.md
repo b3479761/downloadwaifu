@@ -5,8 +5,9 @@ Script to download waifu and render with any hardware.
 
 [b]INSTALLATION[/b]
 Raspbian/Debian/Linux:
+Simply key into console the command below
 
-[quote]git clone https://github.com/b3479761/downloadwaifu.git
+git clone https://github.com/b3479761/downloadwaifu.git
 
 dependency:
 
