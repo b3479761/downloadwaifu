@@ -3,7 +3,8 @@
 Script to download waifu and render with any hardware.
 
 
-[b]INSTALLATION[/b]
+INSTALLATION
+
 Raspbian/Debian/Linux:
 Simply key into console the command below
 
